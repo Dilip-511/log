@@ -2,7 +2,7 @@ body{
     font-family: 'Lato', sans-serif;
     padding: 0px;
     margin: 0px;
-    background-color: burlywood;
+    background-color: hsl(189, 81%, 48%);
 }
 main{
     display: flex;
